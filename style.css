@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://staff.huasosrp.cl/img/fondo.png');
+    background-image: url('https://cdn.jsdelivr.net/gh/matiasdelbulla/cdn/fondo.png');
     background-repeat: repeat;
  
     animation-name: moveBackground;
